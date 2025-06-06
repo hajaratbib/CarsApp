@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xxSmall">2dp</dimen>
+    <dimen name="xSmall">4dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="medium">16dp</dimen>
+    <dimen name="large">32dp</dimen>
+    <dimen name="xLarge">42dp</dimen>
+    <dimen name="xxLarge">56dp</dimen>
+
+</resources>

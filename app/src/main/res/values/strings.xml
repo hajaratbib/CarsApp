@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarsApp</string>
+    <string name="error_message">An unexpected error occurred :</string>
+    <string name="model">Model :</string>
+    <string name="brand">Brand :</string>
+    <string name="label">Enter car brand :</string>
+    <string name="search">Search</string>
+    <string name="unknown_error">Unknown</string>
+    <string name="no_data">No data retrieved</string>
+
+</resources>
