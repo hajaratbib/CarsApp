@@ -1,5 +1,6 @@
 # RenaultCars
 L'application fait retourner la liste de models de voitures d'une marque passée par l'utilisateur dans le champs de recherche.
+J'ai opté pour la Clean Architecture et MVVM architecture avec respect des SOLID principles, j'ai utilisé: Jetpack Compose pour l'UI, Retrofit pour le Networking, Dagger-Hilt pour l'injection des dépendances, Coroutines pour l'Asynchronous Programming.
 Les screenshots suivants donnent une courte idée sur l'application et son fonctionnement: 
 ![Screenshot_20250606_143150_CarsApp](https://github.com/user-attachments/assets/6602c43f-9bdf-4a54-aeab-e47ac725321b)
 ![Screenshot_20250606_143124_CarsApp](https://github.com/user-attachments/assets/ed46e92a-b0d6-4d63-83a1-5cea2c31867f)
